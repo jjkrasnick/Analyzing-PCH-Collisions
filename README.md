@@ -1,3 +1,3 @@
-# Creating a safer environment in LA County with predictive analysis
+# Utilizing predictive analysis to create safer roads
 
 [View the interactive map](https://lookerstudio.google.com/s/imXQNVDmSi4)
